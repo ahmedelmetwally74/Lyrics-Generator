@@ -25,6 +25,3 @@ Instructions on setting up the project locally:
 ```bash
 git clone https://github.com/yourgithub/lyrics-generator.git
 cd lyrics-generator
-
-
-
